@@ -11,7 +11,7 @@ html {
   background-color: #ffe500;
 }
 
-body {
+main {
   margin: 0;
   font-family: "Georgia", serif;
   background-color: white;
@@ -43,7 +43,7 @@ h1 {
   display: inline-block;
   margin: .17em 0;
   padding: .75em;
-  background-color: #733737;
+  background-color: #b2a212;
   border-radius: 4.7px;
   max-width: 20em;
 }
@@ -67,6 +67,11 @@ a {
 h2 {
   font-family: "Sigmar One";
   color: #cc1465;
+}
+
+footer {
+  text-align: center;
+  display: block;
 }
 
 *, *::before, *::after {
